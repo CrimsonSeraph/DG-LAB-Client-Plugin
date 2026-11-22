@@ -22,9 +22,15 @@ https://raw.githubusercontent.com/CrimsonSeraph/DG-LAB-Client-Plugin/main/banner
 
 ## 许可
 
-除封面图外，本仓库中的代码与文档以 MIT 许可协议发布，全文见 [LICENSE](LICENSE)。
+除 `banners/` 下的图片外，本仓库内容以 MIT 许可协议发布，全文见 [LICENSE](LICENSE)，版权行为 `Copyright (c) 2026 CrimsonSeraph`。
 
-`banners/` 下的图片为对应游戏/厂商的素材，版权归其各自权利人所有，仅用于插件识别与展示。
+允许使用、复制、修改、合并、发布、分发、再许可与销售本仓库内容，包括商业用途，条件是在副本或重要部分中保留上述版权声明与许可声明。内容按「原样」提供，不带任何形式的明示或默示担保。
+
+本仓库目前只有 README 与 `banners/` 下的图片，没有可以加注释的源码文件；后续加入的源文件会在文件头加两行 SPDX 声明，标识符为 `MIT`。
+
+### 封面图版权
+
+`banners/gsi.jpg` 与 `banners/warthunder.jpg` 是对应游戏（Game State Integration、War Thunder）的第三方游戏美术素材，版权归各自权利人所有，本仓库不主张任何权利。这两张图仅用于标识对应的插件、供插件市场展示识别，**不受本仓库 MIT 许可覆盖**，不属于 MIT 许可授权的一部分；在其他场合使用需自行向原权利人取得授权。
 
 ## 相关仓库
 
